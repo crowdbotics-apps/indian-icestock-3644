@@ -1,0 +1,3 @@
+rootProject.name = 'indian_icestock_3644'
+
+include ':app'

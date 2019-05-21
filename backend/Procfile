@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT indian_icestock_3644.wsgi:application
